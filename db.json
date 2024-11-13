@@ -1,0 +1,83 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "icons/image_male1.jpeg",
+      "id": "3b24"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "icons/image_female1.jpeg",
+      "id": "bd2a"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "icons/image_male2.jpeg",
+      "id": "84dd"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "icons/image_female2.jpeg",
+      "id": "5391"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "icons/image_male3.jpeg",
+      "id": "0fcb"
+    },
+    {
+      "id": 0.36953796844707165,
+      "name": "somename",
+      "surname": "somesurname",
+      "age": 26
+    },
+    {
+      "id": 0.11730782904857939,
+      "name": "somename",
+      "surname": "somesurname",
+      "age": 26
+    },
+    {
+      "id": 0.11448551974236021,
+      "name": "somename",
+      "surname": "somesurname",
+      "age": 26
+    },
+    {
+      "id": 0.2635163483604044,
+      "name": "somename",
+      "surname": "somesurname",
+      "age": 26
+    },
+    {
+      "id": "0.2747571775423121",
+      "name": "qqq",
+      "age": "www"
+    },
+    {
+      "id": "0.30159256437323445",
+      "name": "rrr",
+      "age": "werr"
+    },
+    {
+      "id": "0.2289852190617685",
+      "name": "12345",
+      "age": "ййййй"
+    }
+  ]
+}
